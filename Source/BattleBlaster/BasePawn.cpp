@@ -58,7 +58,7 @@ void ABasePawn::Fire()
 	if (Projectile)
 	{
 		Projectile->SetOwner(this);
-			UE_LOG(LogTemp, Display, TEXT("Instigator: %s"), *Projectile->GetOwner()->GetActorNameOrLabel());
+			//UE_LOG(LogTemp, Display, TEXT("Instigator: %s"), *Projectile->GetOwner()->GetActorNameOrLabel());
 	}
 
 }

@@ -51,7 +51,7 @@ public:
 	TSubclassOf<class UCameraShakeBase> HitCameraShakeClass;//telling ue5 "I want a blueprint class so I can create a new Camera Shake whenever I need one."
 
 	UPROPERTY(EditAnywhere)
-	float Damage = 25.0f; 
+	float Damage = 1.0f; 
 
 
 
