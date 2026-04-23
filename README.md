@@ -22,7 +22,6 @@ The objectve of this game is to destroy all the enemy towers in each level while
 ![Game Over](Images/BattleBlaster_GO.jpg)
 
 ### Level Previews
-![All Levels Combined](Images/BattleBlaster_Levels.jpg)
 ![Level 1](Images/Level1.jpg)
 ![Level 2](Images/Level2.jpg)
 ![Level 3](Images/Level3.jpg)
