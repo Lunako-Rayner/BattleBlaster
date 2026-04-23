@@ -10,9 +10,9 @@ The objectve of this game is to destroy all the enemy towers in each level while
 * **Left Click**: Fire.
 
 ## 🛠️ Features
-* **Dynamic Enemy Tanks**: (Engaging combat against multiple types of enemy classes that track and attack the player.)
-* **Destruction System**: (Visual and mechanical impact effects that show damage on both player and enemy units.)
-* **Object-Oriented Programming**: (Use of BasePawn class which has common functionality that the child classes, Tank and Tower, make use of.) 
+* **Dynamic Enemy Tanks**: Engaging combat against multiple types of enemy classes that track and attack the player.
+* **Destruction System**: Visual and mechanical impact effects that show damage on both player and enemy units.
+* **Object-Oriented Programming**: Use of BasePawn class which has common functionality that the child classes, Tank and Tower, make use of. 
 
   
 ## 📸 Screenshots
