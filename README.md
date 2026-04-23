@@ -28,4 +28,4 @@ The objectve of this game is to destroy all the enemy towers in each level while
 ![Level 3](Images/Level3.jpg)
 
 ### 📺 Watch the Gameplay Demo
-[![BattleBlaster Gameplay](Images/BattleBlaster_Levels.jpg)](https://drive.google.com/file/d/1VtVxU11C2Hh36Wx4m8viZBNrKSGxwO5L/view?usp=drive_link)
+[![BattleBlaster Gameplay](Images/BattleBlaster_Levels.jpg)](https://drive.google.com/file/d/1VtVxU1lC2Hh36Wx4m8viZBNrKSGxwO5L/view?usp=drive_link)
