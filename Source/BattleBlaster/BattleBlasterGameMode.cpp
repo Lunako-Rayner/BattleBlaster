@@ -85,7 +85,7 @@ void ABattleBlasterGameMode::OnCountdownTimerTimeout()
 	else
 	{
 		//countdownseconds is less than 0
-		UE_LOG(LogTemp, Display, TEXT("Clear Timer"));
+		//UE_LOG(LogTemp, Display, TEXT("Clear Timer"));
 		GetWorldTimerManager().ClearTimer(CountdownTimerHandle);
 		ScreenMessageWidget->SetVisibility(ESlateVisibility::Hidden);
 	}
