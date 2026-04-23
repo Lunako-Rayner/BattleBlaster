@@ -21,4 +21,4 @@ The objectve of this game is to destroy all the enemy towers in each level while
 ![BattleBlaster_Levels](Images/BattleBlaster_Levels.jpg)
 
 <video width="100%" controls>
-  <source src="Images/BattleBlaster_video_3.mp4" type="video/mp4"></video>
+  <source src="Images/BB_video_2.mp4" type="video/mp4"></video>
