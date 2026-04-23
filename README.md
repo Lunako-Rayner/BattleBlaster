@@ -1,6 +1,9 @@
 # BattleBlaster 🚀
 *Move through each level to attack and avoid being attacked*
 
+### 📺 Watch the Gameplay Demo
+[![BattleBlaster Gameplay](Images/BattleBlaster_Levels.jpg)](https://drive.google.com/file/d/1VtVxU1lC2Hh36Wx4m8viZBNrKSGxwO5L/view?usp=drive_link)
+
 ## 🎮 How to Play
 The objectve of this game is to destroy all the enemy towers in each level while trying to dodge their attacks with the limited lives you have.  
 
@@ -26,5 +29,4 @@ The objectve of this game is to destroy all the enemy towers in each level while
 ![Level 2](Images/Level2.jpg)
 ![Level 3](Images/Level3.jpg)
 
-### 📺 Watch the Gameplay Demo
-[![BattleBlaster Gameplay](Images/BattleBlaster_Levels.jpg)](https://drive.google.com/file/d/1VtVxU1lC2Hh36Wx4m8viZBNrKSGxwO5L/view?usp=drive_link)
+
